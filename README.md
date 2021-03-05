@@ -1,6 +1,9 @@
+Programming Fundamentals
+Python
 # Learning_Journal_Unit_1
 Learning Journal Unit 1
 Part 1:
+
 Exercise 1.1 from your textbook recommends that you try to make mistakes when experimenting with a new programming feature. 
 
 This kind of experiment helps you remember what you read; it also helps when you are programming because you get to know what the error messages mean. It is better to make mistakes now and on purpose than later and accidentally. (Downey, 2015, 7)
